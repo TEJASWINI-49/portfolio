@@ -1,0 +1,31 @@
+[
+  {
+    "role": "Java FullStack Trainee",
+    "organisation": "Codegnan",
+    "startDate": "June, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "As a Java FullStack trainee, I have worked on creating Student management System,ATM Project using Core Java,J2EE."
+    ],
+    "imageSrc": "skills/codegan.JPG"
+  },
+  {
+    "role": "Project Engineer",
+    "organisation": "Wipro",
+    "startDate": "Oct, 2021",
+    "endDate": "May, 2023",
+    "experiences": [
+      "Worked as Java Developer.",
+      "Worked on fixing the issues and enhancements of the application using Spring boot."
+    ],
+    "imageSrc": "skills/wipro.JPG"
+  },
+  {
+    "role": "BTECH",
+    "organisation": "MRCEW",
+    "startDate": "Aug, 2017",
+    "endDate": "Jul, 2021",
+    "experiences": ["Computer Science"],
+    "imageSrc": "skills/mrcew.JPG"
+  }
+]

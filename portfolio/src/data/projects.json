@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Food Recipe",
+    "imageSrc": "projects/project.png",
+    "description": "Created Food Recipe using ReactJS where user can view Recipe information of various recipes.Fetched various food recipe info.",
+    "skills": ["React JS"],
+
+    "source": "https://github.com/TEJASWINI-49/FOODAPP"
+  },
+  {
+    "title": "TODO LIST",
+    "imageSrc": "projects/project.png",
+    "description": "created Todo list where user can create, update, delete list of Todo list items.",
+    "skills": ["JAVASCRIPT", "React JS"],
+
+    "source": "https://github.com/TEJASWINI-49/reactprojects"
+  },
+  {
+    "title": "MUSIC PLAYER",
+    "imageSrc": "projects/project.png",
+    "description": "Created music player where user can play,pause,delete a music audio.",
+    "skills": ["Javascript", "HTML", "CSS"],
+
+    "source": "https://github.com/TEJASWINI-49/js-musicplayer"
+  },
+  {
+    "title": "PAYTM CLONE",
+    "imageSrc": "projects/project.png",
+    "description": "Created home page of Paytm.",
+    "skills": ["HTML", "CSS"],
+
+    "source": "https://github.com/TEJASWINI-49/project"
+  },
+  {
+    "title": "USER REGISTRATION",
+    "imageSrc": "projects/project.png",
+    "description": "Created User Registration form, Login form and View User details.",
+    "skills": ["HTML"],
+
+    "source": "https://github.com/TEJASWINI-49/Registration"
+  },
+  {
+    "title": "ATM PROJECT",
+    "imageSrc": "projects/project.png",
+    "description": "Created ATM operations like withdraw,deposit and various functionalities.",
+    "skills": ["Core Java"],
+
+    "source": "https://github.com/TEJASWINI-49/atmproject"
+  },
+  {
+    "title": "STUDENT MANAGEMENT SYSTEM",
+    "imageSrc": "projects/project.png",
+    "description": "Performed CRUD Operations of Students using JSP nad Servlets.",
+    "skills": ["JAVA", "J2EE"],
+
+    "source": "https://github.com/TEJASWINI-49/studentmngmt"
+  }
+]
